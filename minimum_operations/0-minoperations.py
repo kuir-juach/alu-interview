@@ -2,6 +2,8 @@
 """
 Function that calculates the min operations to copy and paste letters
 """
+
+
 def minOperations(n):
     nOpe = 0
     minOpe = 2
